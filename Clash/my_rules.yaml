@@ -5,4 +5,5 @@ rules:
   - DOMAIN-SUFFIX,books.apple.com,Proxies
   - DOMAIN-SUFFIX,mzstatic.com,Proxies
   - DOMAIN-SUFFIX,outlook.live.com,Proxies
+  - DOMAIN-SUFFIX,amp-api.media.apple.com,Proxies
   - GEOSITE,cn,DIRECT
