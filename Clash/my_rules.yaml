@@ -6,4 +6,7 @@ rules:
   - DOMAIN-SUFFIX,mzstatic.com,Proxies
   - DOMAIN-SUFFIX,outlook.live.com,Proxies
   - DOMAIN-SUFFIX,amp-api.media.apple.com,Proxies
+  - DOMAIN-SUFFIX,vscode.download.prss.microsoft.com,Proxies
+  - DOMAIN-SUFFIX,formula1.com,US
+  - DOMAIN-SUFFIX,steamserver.net,DIRECT
   - GEOSITE,cn,DIRECT
